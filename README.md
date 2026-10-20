@@ -6,4 +6,4 @@ angular & react
 java, python, springboot  
 claude  
   
-more: tannerfinlay.dev
+more: [tannerfinlay.dev](https://tannerfinlay.dev)
